@@ -1,4 +1,4 @@
-![](./images/readme-header.svg)
+![](./images/readme-header.png)
 
 <div style="text-align: center;">
 
