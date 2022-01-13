@@ -79,6 +79,7 @@ _Tools to hold value and conduct commerce without gatekeepers._
 - [Bitcoin](https://bitcoincore.org) - peer-to-peer magic internet money that enables you to be your own bank
 - [Bisq](https://bisq.network) - peer-to-peer software that enables you to be your own exchange
 - [BTCPay Server](https://btcpayserver.org/) - self-hosted payment processor that allows you to sell goods with no middleman
+- [LNURLPoS](https://github.com/arcbtc/LNURLPoS) - cheap, offline, hardware device that accepts Lightning payments
 
 _Resources_
 
