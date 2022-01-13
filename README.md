@@ -62,7 +62,7 @@ _Communication_
 - [Briar](https://briarproject.org/) - peer-to-peer chat for Android that runs on the Tor network
 - [StoneAge Messenger](https://cweb.gitlab.io/StoneAge.html) - peer-to-peer chat where user devices host application logic and cloud storage persists encrypted user data
 - [Jitsi](https://jitsi.org/) - self-hostable video chat software that requires no accounts and no software
-- [Fediverse](https://github.com/topics/activitypub) - various self-hostable open-source software projects based on the ActivityPub protocol for federated social networking
+- [Fediverse](https://github.com/topics/activitypub) - various self-hostable social networks
     - Popular implementations include [Mastodon](https://joinmastodon.org/), [Pleroma](https://pleroma.social/), [PeerTube](https://joinpeertube.org/), [Lemmy](https://join-lemmy.org/), and [Pixelfed](https://pixelfed.org/)    
 
 ### Hardware
