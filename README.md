@@ -147,6 +147,7 @@ _Resources_
 - [Free Private Cities: Making Governments Compete for You](https://www.amazon.com/Free-Private-Cities-Governments-Compete/dp/1724391380/) [book]
 - [SLP161 Titus Gebel – Bitcoin Citadels as Free Private Cities](https://stephanlivera.com/episode/161/) [podcast episode]
 - [TFTC #267: Free private cities, economic zones, and gradual progress with Rahim Taghizadegan](https://anchor.fm/tales-from-the-crypt/episodes/267-Free-private-cities--economic-zones--and-gradual-progress-with-Rahim-Taghizadegan-e16m214) [podcast episode]
+- [Legal Systems Very Different From Ours](https://www.goodreads.com/book/show/30066446-legal-systems-very-different-from-ours) [book]
 
 **[`^        back to top        ^`](#)**
 
