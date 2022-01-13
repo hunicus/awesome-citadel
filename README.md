@@ -83,7 +83,7 @@ _Tools to hold value and conduct commerce without gatekeepers._
 _Resources_
 
 - [Bitcoin Only](https://bitcoin-only.com/) [website]
-- [The Bitcoin Standard](https://openlibrary.org/works/OL20984004W/The_Bitcoin_Standard) [book]
+- [The Bitcoin Standard](https://www.goodreads.com/book/show/36448501-the-bitcoin-standard) [book]
 
 **[`^        back to top        ^`](#)**
 
@@ -144,7 +144,7 @@ _Legal concepts for sovereignty-minded communities._
 
 _Resources_
 
-- [Free Private Cities: Making Governments Compete for You](https://www.amazon.com/Free-Private-Cities-Governments-Compete/dp/1724391380/) [book]
+- [Free Private Cities: Making Governments Compete for You](https://www.goodreads.com/book/show/41123024-free-private-cities) [book]
 - [SLP161 Titus Gebel – Bitcoin Citadels as Free Private Cities](https://stephanlivera.com/episode/161/) [podcast episode]
 - [TFTC #267: Free private cities, economic zones, and gradual progress with Rahim Taghizadegan](https://anchor.fm/tales-from-the-crypt/episodes/267-Free-private-cities--economic-zones--and-gradual-progress-with-Rahim-Taghizadegan-e16m214) [podcast episode]
 - [Legal Systems Very Different From Ours](https://www.goodreads.com/book/show/30066446-legal-systems-very-different-from-ours) [book]
@@ -159,7 +159,7 @@ _Source your food from more local sources, possibly even from your own land._
 
 _Resources_
 
-- [Dirt: The Erosion of Civilizations](https://openlibrary.org/works/OL5118104W/Dirt) [book]
+- [Dirt: The Erosion of Civilizations](https://www.goodreads.com/book/show/587916.Dirt) [book]
 
 **[`^        back to top        ^`](#)**
 
@@ -197,7 +197,7 @@ _Resources for the general concepts of citadel theory, sovereignty, and freedom.
 
 ### Books
 
-- [The Sovereign Individual](https://openlibrary.org/works/OL3350985W/The_sovereign_individual)
+- [The Sovereign Individual](https://www.goodreads.com/book/show/82256.The_Sovereign_Individual)
 
 ### Videos
 
