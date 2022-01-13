@@ -13,12 +13,12 @@ PRs welcome. Please see CONTRIBUTING.md for guidelines.
 **THIS DOCUMENT IS A WORK-IN-PROGRESS. If you're seeing this message, you were probably invited early for your field of expertise. Please suggest updates so this page can become a robust go-to resource for everyone.**
 
 - [Technology](#technology)
-    - [Software](#software)
-    - [Hardware](#hardware)
+  - [Software](#software)
+  - [Hardware](#hardware)
 - [Finance](#finance)
 - [Defense](#defense)
 - [Real Estate](#real-estate)
-- [Citizenship](#citizenship)    
+- [Citizenship](#citizenship)
 - [Energy](#energy)
 - [Education](#education)
 - [Law](#law)
@@ -27,11 +27,11 @@ PRs welcome. Please see CONTRIBUTING.md for guidelines.
 - [Transportation](#transportation)
 - [Events](#events)
 - [Further Perspective](#further-perspective)
-    - [People](#people)
-    - [Books](#books)
-    - [Videos](#videos)
-    - [Podcasts](#podcasts)
-    - [Articles](#articles)
+  - [People](#people)
+  - [Books](#books)
+  - [Videos](#videos)
+  - [Articles](#articles)
+  - [Podcasts](#podcasts)
 
 ## Technology
 
@@ -105,6 +105,10 @@ _Resources_
 _The physical basis of all human life: find good land and put it to good use._
 
 - [Decentralized Grazing](https://untappedgrowth.com/decentralizedgrazing/) - decentralized land regeneration network
+
+_Resources_
+
+- [How to Build a Small Town in Texas](https://wrathofgnon.substack.com/p/how-to-build-a-small-town-in-texas)
 
 **[`^        back to top        ^`](#)**
 
@@ -198,7 +202,7 @@ _Resources for the general concepts of citadel theory, sovereignty, and freedom.
 
 ### Articles
 
-- [How to Build a Small Town in Texas](https://wrathofgnon.substack.com/p/how-to-build-a-small-town-in-texas)
+
 
 ### Podcasts
 
