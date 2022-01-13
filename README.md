@@ -96,7 +96,7 @@ _Protect yourself, your family, and your assets._
 
 _Resources_
 
-- [Plastic Defense](https://www.popularfront.co/3D) - documentary about 3D-printed firearms in Europe and the decentralised network behind them
+- [Plastic Defense](https://www.popularfront.co/3D) - documentary about 3D-printed firearms in Europe and the decentralised network behind them [video documentary]
 
 **[`^        back to top        ^`](#)**
 
@@ -108,7 +108,7 @@ _The physical basis of all human life: find good land and put it to good use._
 
 _Resources_
 
-- [How to Build a Small Town in Texas](https://wrathofgnon.substack.com/p/how-to-build-a-small-town-in-texas)
+- [How to Build a Small Town in Texas](https://wrathofgnon.substack.com/p/how-to-build-a-small-town-in-texas) [article]
 
 **[`^        back to top        ^`](#)**
 
