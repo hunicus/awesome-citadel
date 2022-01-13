@@ -119,6 +119,7 @@ _Resources_
 _Move to a place in the world that is better-suited for you._
 
 - [Plan B Passport](https://planbpassport.com/) - acquire another passport for a country with more favorable conditions
+- [Nomad Capitalist](https://nomadcapitalist.com/) - strategy and advice on citizenship and wealth planning
 
 **[`^        back to top        ^`](#)**
 
