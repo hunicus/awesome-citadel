@@ -82,6 +82,7 @@ _Tools to hold value and conduct commerce without gatekeepers._
 
 _Resources_
 
+- [Bitcoin Only](https://bitcoin-only.com/) [website]
 - [The Bitcoin Standard](https://openlibrary.org/works/OL20984004W/The_Bitcoin_Standard) [book]
 
 **[`^        back to top        ^`](#)**
