@@ -170,6 +170,7 @@ _Resources_
 _Get higher-quality medical care by avoiding large, dubious, broken systems._
 
 - [Direct primary care](https://en.wikipedia.org/wiki/Direct_primary_care) - cash-based primary care that aims for higher-quality care by avoiding insurance companies
+- [CrowdHealth](https://www.joincrowdhealth.com/) - fund unexpected healthcare costs through the cash savings of a crowd instead of an insurance company
 
 **[`^        back to top        ^`](#)**
 
