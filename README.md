@@ -194,7 +194,6 @@ _Resources for the general concepts of citadel theory, sovereignty, and freedom.
 ### People
 
 - [UntappedGrowth](https://twitter.com/untappedgrowth/) - navigating 🤡🌎 via homesteading and land regeneration
-- [LaserHodl](https://twitter.com/LaserHodl/) - navigating 🤡🌎 via sovereign, decentralized technology
 - [Marketsbylili](https://twitter.com/marketsbylili/) - sovereignty through bitcoin mining and private/secure technology
 - [Wrath of Gnon](https://twitter.com/wrathofgnon/) - principles of sustainable, wholesome urban design and architecture
 
